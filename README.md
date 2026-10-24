@@ -45,6 +45,7 @@ Berdasarkan praktik yang telah dilakukan, saya mempelajari penggunaan string dan
 | 1 | aan hendrayana | pmat a 2026 | Aan Hendrayana, PMAT-A-2026, 2 kata, AH | Berhasil |
 | 2 | fATHIYYAH mUTHMAINNAH | kelas b | Fathiyyah Muthmainnah, KELAS-B, 2 kata, FM | Berhasil |
 | 3 | BUDI | pmtk 01 | Budi, PMTK-01, 1 kata, B | Berhasil |
+| 4 | siti nur aisyah | kelas c | Siti Nur Aisyah, KELAS-C, 3 kata, SNA | Berhasil |
 
 ##  Refleksi
 
