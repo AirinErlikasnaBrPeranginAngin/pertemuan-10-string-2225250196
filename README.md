@@ -50,6 +50,10 @@ Berdasarkan praktik yang telah dilakukan, saya mempelajari penggunaan string dan
 
 Melalui praktikum Pertemuan 10, saya mempelajari cara mengolah string dalam Python, seperti menggunakan "strip()", "split()", "join()", "title()", dan "upper()". Saya juga belajar membuat fungsi untuk membersihkan nama mahasiswa, merapikan kode kelas, menghitung jumlah kata, dan membuat inisial nama. Dari pengujian yang dilakukan, saya memahami bahwa pengolahan string dapat membantu membuat data menjadi lebih rapi dan konsisten.
 
+##  Sumber dan Bantuan
+
+Bahan ajar Algoritma dan Pemrograman Pertemuan 10. Bantuan AI digunakan untuk mendampingi proses pemahaman dan pengerjaan tugas.
+
 ## Jawaban Kuis
 
 1. Apa perbedaan string dan list pada Python?
